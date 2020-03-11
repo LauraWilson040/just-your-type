@@ -23,11 +23,8 @@ html {
  position: absolute;
 }
 
-blockquote {
-
-}
-
 p {
+  position: relative;
   font-weight: bold;
   color: #FF7F50;
 }
