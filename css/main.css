@@ -12,8 +12,7 @@ html {
   box-sizing: border-box;
 
   font: normal 100%/1.3 'Inria Serif', serif;
-  background-color: #FF7F50;
-  color: #fff;
+  background-color: #fff;
 }
 
 *, *::before, *::after {
@@ -25,7 +24,13 @@ blockquote {
 }
 
 p {
+  font-weight: bold;
+  color: #FF7F50;
+}
 
+.sun {
+  align-items: center;
+  display: block;
 }
 
 footer {
